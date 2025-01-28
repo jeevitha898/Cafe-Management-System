@@ -7,38 +7,38 @@ Welcome to the **Cafe Management System**, a modern web application designed to 
 ### Home
 - A visually appealing landing page introducing the cafe.
 - Displays highlights and popular items.
-- ![Alt Text](path/to/image)
+  ![home](screenshot/home.png)
 
 ### Menu
 - Showcases a variety of coffee options and other items.
 - Categories and filters for easy navigation.
 - Supports adding items to the cart.
-- ![Alt Text](path/to/image)
+  ![menu](screenshot/menu.png)
 
 
 ### Order
 - Allows users to place orders conveniently.
 - Displays order details for review before finalizing.
-- ![Alt Text](path/to/image)
+  ![order](screenshot/order.png)
 
 
 ### Cart
 - Lists selected items with quantities and prices.
 - Options to modify or remove items.
 - Proceed to payment button for checkout.
-- ![Alt Text](path/to/image)
+  ![cart](screenshot/cart.png)
 
 
 ### Payment
 - Secure and simple payment gateway integration.
 - Supports multiple payment methods.
-- ![Alt Text](path/to/image)
+- ![payment](screenshot/payment.png)
 
 
 ### Profile
 - Personal details and order history for users.
 - Allows updating of customer information.
-- ![Alt Text](path/to/image)
+ ![profile](screenshot/profile.png)
 
 
 ## 🛠️ Technologies Used
