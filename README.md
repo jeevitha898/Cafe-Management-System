@@ -45,7 +45,7 @@ Welcome to the **Cafe Management System**, a modern web application designed to 
 
 - **Frontend**: Angular, HTML5, CSS3, Bootstrap
 - **Backend**: Spring Boot (Java)
-- **Database**: MySQL / PostgreSQL
+- **Database**: MySQL 
 - **API Testing**: Postman
 - **Version Control**: Git & GitHub
 
